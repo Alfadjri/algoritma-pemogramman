@@ -10,3 +10,12 @@ List Mater
         - Algoritma Linear (Squensial)
         - Algoritma percabangan
         - Algoritma Perulangan
+  - Function
+    - Sifat
+      - Digunakan Saat ada code yang harus di panggil berulang
+      - Mempermudah dalam pengeditan jika terjadi code yang salah pada tahap yang sama 
+      - function di tandai dengan akhiran return sebagai hasil olah dari function
+    - Kalkilator_Sederhana
+      - Cara membuat function
+      - Cara memanggil function
+      - Cara memanggil function dalam function     

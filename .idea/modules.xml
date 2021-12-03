@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/Kalkulator_Sederhan/Kalkulator_Sederhan.iml" filepath="$PROJECT_DIR$/Kalkulator_Sederhan/Kalkulator_Sederhan.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/algoritma-pemogramman.iml" filepath="$PROJECT_DIR$/.idea/algoritma-pemogramman.iml" />
       <module fileurl="file://$PROJECT_DIR$/ifa_latihan/ifa_latihan.iml" filepath="$PROJECT_DIR$/ifa_latihan/ifa_latihan.iml" />
     </modules>
