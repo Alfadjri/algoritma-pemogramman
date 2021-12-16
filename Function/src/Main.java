@@ -1,8 +1,10 @@
+
+// class Main di sebut class utama
 public class Main {
     public static void main(String[] args) {
         System.out.println("Kalkulator Sederhana");
         // Memanggil function
-        int hasil = tambah(1,5);
+        int hasil = tambah(1, 5);
         // mencetak hasil
         System.out.println(hasil);
         System.out.println();
@@ -12,7 +14,7 @@ public class Main {
         // rumus alas * tInggi / 2
         int alas = 2;
         int tinggi = 10;
-        float luas = luasSegitiga(alas,tinggi);
+        float luas = luasSegitiga(alas, tinggi);
 
         System.out.println(luas);
     }
